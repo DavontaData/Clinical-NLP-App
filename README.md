@@ -1,2 +1,5 @@
 ﻿# Clinical-NLP-App
-azure streamlit app https://clinical-nlp-app-exardcetcpfchmbc.centralus-01.azurewebsites.net/
+## Live Demo
+
+Clinical NLP Application:
+https://clinical-nlp-app-exardcetcpfchmbc.centralus-01.azurewebsites.net/
